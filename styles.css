@@ -38,6 +38,13 @@ header nav ul li a {
     text-decoration: none;
 }
 
+.search-container input {
+    padding: 5px;
+    margin-left: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
 .hero {
     background: url('hero-background.jpg') no-repeat center center/cover;
     height: 400px;
